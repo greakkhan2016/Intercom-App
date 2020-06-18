@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intercom.Api", "Intercom.Api\Intercom.Api.csproj", "{B3A354A4-E09E-410A-8F90-C7EDF56A05DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intercom.BusinessLogic", "Intercom.BusinessLogic\Intercom.BusinessLogic.csproj", "{3702FA51-B5C4-4E6D-95FC-56503658AE89}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intercom.Service", "Intercom.Service\Intercom.Service.csproj", "{68FC39F2-000F-4567-9A35-3656EF3FD66E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intercom.BusinessLogic.Model", "Intercom.BusinessLogic.Model\Intercom.BusinessLogic.Model.csproj", "{04AE7B08-B819-4910-85DF-2EA1F6E1334D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intercom.Unit.Tests", "Intercom.Unit.Tests\Intercom.Unit.Tests.csproj", "{78705357-DD2C-4C4F-ABF6-D91566068F41}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intercom.Common", "Intercom.Common\Intercom.Common.csproj", "{854E28AF-8896-4587-ADA9-5E5B16F07D5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intercom.Integration.Tests", "Intercom.Integration.Tests\Intercom.Integration.Tests.csproj", "{B647DF9C-E00D-43B4-8307-181AF408E110}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3A354A4-E09E-410A-8F90-C7EDF56A05DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A354A4-E09E-410A-8F90-C7EDF56A05DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A354A4-E09E-410A-8F90-C7EDF56A05DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A354A4-E09E-410A-8F90-C7EDF56A05DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3702FA51-B5C4-4E6D-95FC-56503658AE89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3702FA51-B5C4-4E6D-95FC-56503658AE89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3702FA51-B5C4-4E6D-95FC-56503658AE89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3702FA51-B5C4-4E6D-95FC-56503658AE89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68FC39F2-000F-4567-9A35-3656EF3FD66E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68FC39F2-000F-4567-9A35-3656EF3FD66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68FC39F2-000F-4567-9A35-3656EF3FD66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68FC39F2-000F-4567-9A35-3656EF3FD66E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04AE7B08-B819-4910-85DF-2EA1F6E1334D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AE7B08-B819-4910-85DF-2EA1F6E1334D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04AE7B08-B819-4910-85DF-2EA1F6E1334D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04AE7B08-B819-4910-85DF-2EA1F6E1334D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78705357-DD2C-4C4F-ABF6-D91566068F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78705357-DD2C-4C4F-ABF6-D91566068F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78705357-DD2C-4C4F-ABF6-D91566068F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78705357-DD2C-4C4F-ABF6-D91566068F41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{854E28AF-8896-4587-ADA9-5E5B16F07D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854E28AF-8896-4587-ADA9-5E5B16F07D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854E28AF-8896-4587-ADA9-5E5B16F07D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854E28AF-8896-4587-ADA9-5E5B16F07D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B647DF9C-E00D-43B4-8307-181AF408E110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B647DF9C-E00D-43B4-8307-181AF408E110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B647DF9C-E00D-43B4-8307-181AF408E110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B647DF9C-E00D-43B4-8307-181AF408E110}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7BF198C-0AD0-4744-B549-B3C775DCB8B5}
+	EndGlobalSection
+EndGlobal

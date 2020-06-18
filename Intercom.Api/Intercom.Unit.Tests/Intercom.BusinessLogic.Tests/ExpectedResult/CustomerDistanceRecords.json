@@ -1,0 +1,82 @@
+﻿[
+  {
+    "DistanceFromOfficeLocation": 16.435297588378663,
+    "user_id": 4,
+    "Name": "Ian Kehoe"
+  },
+  {
+    "DistanceFromOfficeLocation": 28.192336054241803,
+    "user_id": 5,
+    "Name": "Nora Dempsey"
+  },
+  {
+    "DistanceFromOfficeLocation": 28.46244436464596,
+    "user_id": 6,
+    "Name": "Theresa Enright"
+  },
+  {
+    "DistanceFromOfficeLocation": 80.50414258835231,
+    "user_id": 8,
+    "Name": "Eoin Ahearn"
+  },
+  {
+    "DistanceFromOfficeLocation": 43.959598556961545,
+    "user_id": 11,
+    "Name": "Richard Finnegan"
+  },
+  {
+    "DistanceFromOfficeLocation": 47.94619356379258,
+    "user_id": 12,
+    "Name": "Christina McArdle"
+  },
+  {
+    "DistanceFromOfficeLocation": 59.3618745575097,
+    "user_id": 13,
+    "Name": "Olive Ahearn"
+  },
+  {
+    "DistanceFromOfficeLocation": 45.74286688400662,
+    "user_id": 15,
+    "Name": "Michael Ahearn"
+  },
+  {
+    "DistanceFromOfficeLocation": 94.33336196209169,
+    "user_id": 17,
+    "Name": "Patricia Cahill"
+  },
+  {
+    "DistanceFromOfficeLocation": 78.67751889500109,
+    "user_id": 23,
+    "Name": "Eoin Gallagher"
+  },
+  {
+    "DistanceFromOfficeLocation": 84.6739921300179,
+    "user_id": 24,
+    "Name": "Rose Enright"
+  },
+  {
+    "DistanceFromOfficeLocation": 93.71749098067485,
+    "user_id": 26,
+    "Name": "Stephen McArdle"
+  },
+  {
+    "DistanceFromOfficeLocation": 64.46076696241094,
+    "user_id": 29,
+    "Name": "Oliver Ahearn"
+  },
+  {
+    "DistanceFromOfficeLocation": 74.80809429610194,
+    "user_id": 30,
+    "Name": "Nick Enright"
+  },
+  {
+    "DistanceFromOfficeLocation": 40.480428578681,
+    "user_id": 31,
+    "Name": "Alan Behan"
+  },
+  {
+    "DistanceFromOfficeLocation": 41.126099825031076,
+    "user_id": 39,
+    "Name": "Lisa Ahearn"
+  }
+]
