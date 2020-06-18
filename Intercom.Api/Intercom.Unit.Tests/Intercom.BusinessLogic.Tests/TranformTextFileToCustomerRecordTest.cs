@@ -5,9 +5,6 @@ using Xunit;
 
 namespace Intercom.Unit.Tests
 {
-    /// <summary>
-    /// not too sure about this i have been reading up and alot of people say to do integration tests
-    /// </summary>
     public class TranformTextFileToCustomerRecordTest
     {
         private readonly string _path = "../../../Intercom.BusinessLogic.Tests/TestScenario/";
